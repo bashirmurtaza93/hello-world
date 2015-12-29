@@ -1,1 +1,6 @@
-cout<<"hello, world<< endl;
+#include<iostream>
+int main() {
+std::cout<<"hello, world<<std::endl;
+
+
+}
